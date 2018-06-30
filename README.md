@@ -91,7 +91,6 @@ Finnaly I searched with YCrCb 3-channel HOG features plus spatially binned color
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
 Here's a [link to my video result](./test_videos_output/project_video.mp4)
-![alt text][video1]
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
 
