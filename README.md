@@ -84,8 +84,6 @@ Finnaly I searched with YCrCb 3-channel HOG features plus spatially binned color
 
 ![alt text][image3]
 ![alt text][image4]
-
-![alt text][image4]
 ---
 
 ### Video Implementation
